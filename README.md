@@ -7,7 +7,7 @@ My name is Jose, I'm 17 years old, I'm studying computer engineering.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 

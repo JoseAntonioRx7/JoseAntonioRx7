@@ -43,7 +43,9 @@ My name is Jose, I'm 17 years old, I'm studying computer engineering.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" 
 />
 
-<i class="devicon-go-original-wordmark colored"></i>
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+          
 
 <br/>
 <br/>

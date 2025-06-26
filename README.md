@@ -1,4 +1,4 @@
-# José Antônio Ramos da Silva
+# Jose Antonio Ramos
 
 **`Computer Engineering Student`**
 

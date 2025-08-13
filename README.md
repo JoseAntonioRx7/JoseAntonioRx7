@@ -33,19 +33,22 @@ My name is Jose, I'm 18 years old, I'm studying computer engineering.
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Linux" 
+    title="Linux"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src=<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
 />
+
+
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="Raspberrypi" 
+    title="Raspberrypi"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 />
 
 

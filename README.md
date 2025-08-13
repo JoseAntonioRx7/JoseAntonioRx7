@@ -32,6 +32,16 @@ My name is Jose, I'm 18 years old, I'm studying computer engineering.
 
 <img 
     align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+
+<img 
+    align="left" 
     alt="Raspberrypi" 
     title="Raspberrypi"
     width="30px" 

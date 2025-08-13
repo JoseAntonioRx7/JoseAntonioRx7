@@ -37,7 +37,7 @@ My name is Jose, I'm 18 years old, I'm studying computer engineering.
     title="Linux"
     width="30px" 
     style="padding-right: 10px;" 
-    src=<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
 
 
@@ -47,7 +47,7 @@ My name is Jose, I'm 18 years old, I'm studying computer engineering.
     title="Raspberrypi"
     width="30px" 
     style="padding-right: 10px;" 
-    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg"
 
 />
 

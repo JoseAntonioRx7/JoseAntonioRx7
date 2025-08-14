@@ -2,7 +2,7 @@
 
 **`Computer Engineering Student`**
 
-My name is Jose, I'm 18 years old, I'm studying computer engineering.
+My name is Jose, I'm 18 years old, I'm studying computer engineering. like it crypto and blockchain, soon blockchain developer
 
 
 ---

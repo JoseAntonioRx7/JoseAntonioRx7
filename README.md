@@ -32,6 +32,18 @@ My name is Jose, I'm 18 years old, I'm studying computer engineering. like it cr
 
 <img 
     align="left" 
+    alt="C language" 
+    title="C language"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+
+
+
+
+<img 
+    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 

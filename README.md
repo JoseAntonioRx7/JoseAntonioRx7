@@ -1,90 +1,78 @@
 # Jose Antonio Ramos
 
-**`Computer Engineering Student`**
+**Backend Developer in Training | Blockchain • Security • Artificial Intelligence**
 
-My name is Jose, I'm 18 years old, I'm studying computer engineering. like it crypto and blockchain.
-
+Computer Engineering student focused on building **secure, scalable, and transparent backend systems**.  
+I work mainly with **Golang and Python**, exploring **blockchain architectures, cryptography**, and **AI-assisted validation** to improve trust and security in software systems.
 
 ---
 
-### 🤖 Languages and Technologies
+## 🎯 Purpose
 
+My goal is to become a **backend developer specialized in security-critical systems**, using **blockchain and artificial intelligence** to strengthen data integrity, validation processes, and system reliability.
 
-<img 
-    align="left" 
-    alt="Golang" 
-    title="Golang"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" 
-/>
+I am especially interested in:
+- Secure backend architectures
+- Blockchain-based validation and trust models
+- Cryptography applied to real-world systems
+- Artificial Intelligence as a support tool for security and verification
 
+---
 
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+## 🛠️ Languages & Technologies
 
+### Backend & Systems
+- Golang
+- C
+- Python
 
-<img 
-    align="left" 
-    alt="C language" 
-    title="C language"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
+### Blockchain & Security
+- Blockchain fundamentals
+- Cryptographic concepts (hashing, validation, integrity)
+- Secure data structures
 
+### Artificial Intelligence
+- Python for AI/ML fundamentals
+- AI-assisted validation concepts
 
+### Infrastructure & OS
+- Linux
+- Raspberry Pi
 
+---
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+## 📌 Featured Projects
 
+### 🔗 blockchain-golang
+A blockchain implementation in **Golang**, focusing on block structure, proof-of-work concepts, and backend architecture fundamentals.
 
-<img 
-    align="left" 
-    alt="Raspberrypi" 
-    title="Raspberrypi"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg"
-/>
+### 🧠 test01-blockchain-ia
+Experimental project exploring the **integration of blockchain concepts with artificial intelligence**, focusing on validation and automation ideas.
 
+### 🎓 registrar-certificados-block
+A blockchain-based system for **registering and validating educational certificates**, aiming to ensure authenticity, integrity, and transparency.
 
+### ⚙️ war-game-C-language
+Low-level programming project in **C**, focused on data structures and system-level understanding.
 
-<img 
-    align="left" 
-    alt="Linux" 
-    title="Linux"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
-/>
+---
 
+## 📚 Currently Learning
 
-<img 
-    align="left" 
-    alt="Linuxmint" 
-    title="Linuxmint"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" 
-/>
+- Advanced backend patterns in Go
+- Blockchain security models
+- Applied cryptography
+- Artificial intelligence for validation and anomaly detection
 
+---
 
-        
-<br/>
-<br/>
+## 🚀 Long-Term Vision
 
+To contribute to the development of **secure digital infrastructures**, combining backend engineering, blockchain technology, and artificial intelligence to solve real-world problems involving trust, security, and data protection.
 
+---
+
+## 📫 Contact
+
+- GitHub: @JoseAntonioRx7
+- LinkedIn: www.linkedin.com/in/joseantonioramosx

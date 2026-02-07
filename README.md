@@ -1,78 +1,73 @@
 # Jose Antonio Ramos
 
-**Backend Developer in Training | Blockchain • Security • Artificial Intelligence**
+**Backend Developer (Intern / Junior) | Golang • Python • Blockchain • Security**
 
-Computer Engineering student focused on building **secure, scalable, and transparent backend systems**.  
-I work mainly with **Golang and Python**, exploring **blockchain architectures, cryptography**, and **AI-assisted validation** to improve trust and security in software systems.
-
----
-
-## 🎯 Purpose
-
-My goal is to become a **backend developer specialized in security-critical systems**, using **blockchain and artificial intelligence** to strengthen data integrity, validation processes, and system reliability.
-
-I am especially interested in:
-- Secure backend architectures
-- Blockchain-based validation and trust models
-- Cryptography applied to real-world systems
-- Artificial Intelligence as a support tool for security and verification
+Computer Engineering student focused on **backend development and security-oriented systems**, with practical experience building **blockchain architectures**, **REST APIs**, and **validation mechanisms** using **Golang and Python**.
 
 ---
 
-## 🛠️ Languages & Technologies
+## 🔍 What I’m Looking For
 
-### Backend & Systems
-- Golang
-- C
-- Python
-
-### Blockchain & Security
-- Blockchain fundamentals
-- Cryptographic concepts (hashing, validation, integrity)
-- Secure data structures
-
-### Artificial Intelligence
-- Python for AI/ML fundamentals
-- AI-assisted validation concepts
-
-### Infrastructure & OS
-- Linux
-- Raspberry Pi
+- Internship or Junior Backend Developer role  
+- Focus on **backend systems, security, and data integrity**  
+- Environments where I can grow working with **Golang, Python, blockchain, and applied AI**
 
 ---
 
-## 📌 Featured Projects
+## 🧠 Core Skills
 
-### 🔗 blockchain-golang
-A blockchain implementation in **Golang**, focusing on block structure, proof-of-work concepts, and backend architecture fundamentals.
+**Backend & Systems**
+- Golang, Python, C  
+- REST APIs, backend architecture, data validation  
 
-### 🧠 test01-blockchain-ia
-Experimental project exploring the **integration of blockchain concepts with artificial intelligence**, focusing on validation and automation ideas.
+**Blockchain & Security**
+- Blockchain architecture  
+- Proof of Work (PoW)  
+- Cryptographic hashing and integrity validation  
 
-### 🎓 registrar-certificados-block
-A blockchain-based system for **registering and validating educational certificates**, aiming to ensure authenticity, integrity, and transparency.
+**Artificial Intelligence**
+- AI fundamentals applied to validation and automation  
+- Python for ML/AI experimentation  
 
-### ⚙️ war-game-C-language
-Low-level programming project in **C**, focused on data structures and system-level understanding.
-
----
-
-## 📚 Currently Learning
-
-- Advanced backend patterns in Go
-- Blockchain security models
-- Applied cryptography
-- Artificial intelligence for validation and anomaly detection
+**Tools & Environment**
+- Linux  
+- Git & GitHub  
+- AWS (foundations)  
 
 ---
 
-## 🚀 Long-Term Vision
+## 📌 Selected Projects
 
-To contribute to the development of **secure digital infrastructures**, combining backend engineering, blockchain technology, and artificial intelligence to solve real-world problems involving trust, security, and data protection.
+### 🔗 Blockchain in Golang
+Blockchain built from scratch in Go, including block structure, hashing, Proof of Work (PoW), and transaction modeling.  
+**Focus:** backend architecture, security, performance.
+
+### 🎓 Blockchain Certificate Registry
+System for registering and validating educational certificates using blockchain technology.  
+**Focus:** data integrity, immutability, real-world validation use case.
+
+### 🧠 Blockchain + AI Experiments
+Experimental repository exploring how **AI can assist validation and verification processes** in blockchain-based systems.
+
+### ⚙️ Low-Level Programming in C
+Projects focused on data structures and system-level understanding.
 
 ---
 
-## 📫 Contact
+## 📚 Currently Improving
 
-- GitHub: @JoseAntonioRx7
-- LinkedIn: www.linkedin.com/in/joseantonioramosx
+- Backend architecture patterns in Go  
+- Blockchain security models  
+- Applied cryptography  
+- AI-assisted validation and anomaly detection  
+
+---
+
+## 🚀 Long-Term Goal
+
+To become a **backend engineer specialized in secure systems**, combining **blockchain technology and artificial intelligence** to build reliable, high-trust software.
+
+---
+
+📫 **GitHub:** @JoseAntonioRx7  
+🔗 **LinkedIn:** (add link when ready)

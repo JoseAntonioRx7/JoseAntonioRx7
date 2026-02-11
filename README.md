@@ -52,7 +52,7 @@ Experimental repository exploring how **AI can assist validation and verificatio
 ### ⚙️ Low-Level Programming in C
 Projects focused on data structures and system-level understanding.
 
----
+----
 
 ## 📚 Currently Improving
 

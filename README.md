@@ -34,7 +34,7 @@ Computer Engineering student focused on **backend development and security-orien
 - Git & GitHub  
 - AWS (foundations)  
 
----
+----
 
 ## 📌 Selected Projects
 

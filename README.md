@@ -67,7 +67,7 @@ Projects focused on data structures and system-level understanding.
 
 To become a **backend engineer specialized in secure systems**, combining **blockchain technology and artificial intelligence** to build reliable, high-trust software.
 
----
+----
 
 📫 **GitHub:** @JoseAntonioRx7  
 🔗 **LinkedIn:** (add link when ready)

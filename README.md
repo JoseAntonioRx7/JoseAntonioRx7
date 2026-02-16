@@ -70,4 +70,4 @@ To become a **backend engineer specialized in secure systems**, combining **bloc
 ----
 
 📫 **GitHub:** @JoseAntonioRx7  
-🔗 **LinkedIn:** (add link when ready)
+🔗 **LinkedIn:** https://www.linkedin.com/in/joseantonioramosx?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app

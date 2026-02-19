@@ -6,7 +6,7 @@ Computer Engineering student focused on **backend development and security-orien
 
 ----
 
-## 🔍 What I’m Looking For
+## What I’m Looking For
 
 - Internship or Junior Backend Developer role  
 - Focus on **backend systems, security, and data integrity**  
@@ -14,7 +14,7 @@ Computer Engineering student focused on **backend development and security-orien
 
 ----
 
-## 🧠 Core Skills
+## Core Skills
 
 **Backend & Systems**
 - Golang, Python, C  
@@ -36,25 +36,25 @@ Computer Engineering student focused on **backend development and security-orien
 
 ----
 
-## 📌 Selected Projects
+## Selected Projects
 
-### 🔗 Blockchain in Golang
+### Blockchain in Golang
 Blockchain built from scratch in Go, including block structure, hashing, Proof of Work (PoW), and transaction modeling.  
 **Focus:** backend architecture, security, performance.
 
-### 🎓 Blockchain Certificate Registry
+### Blockchain Certificate Registry
 System for registering and validating educational certificates using blockchain technology.  
 **Focus:** data integrity, immutability, real-world validation use case.
 
-### 🧠 Blockchain + AI Experiments
+### Blockchain + AI Experiments
 Experimental repository exploring how **AI can assist validation and verification processes** in blockchain-based systems.
 
-### ⚙️ Low-Level Programming in C
+### Low-Level Programming in C
 Projects focused on data structures and system-level understanding.
 
 ----
 
-## 📚 Currently Improving
+## Currently Improving
 
 - Backend architecture patterns in Go  
 - Blockchain security models  
@@ -63,11 +63,11 @@ Projects focused on data structures and system-level understanding.
 
 ----
 
-## 🚀 Long-Term Goal
+## Long-Term Goal
 
 To become a **backend engineer specialized in secure systems**, combining **blockchain technology and artificial intelligence** to build reliable, high-trust software.
 
 ----
 
-📫 **GitHub:** @JoseAntonioRx7  
-🔗 **LinkedIn:** https://www.linkedin.com/in/joseantonioramosx?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+ **GitHub:** @JoseAntonioRx7  
+ **LinkedIn:** https://www.linkedin.com/in/joseantonioramosx?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app

@@ -61,7 +61,7 @@ Projects focused on data structures and system-level understanding.
 - Applied cryptography  
 - AI-assisted validation and anomaly detection  
 
-----
+------
 
 ## Long-Term Goal
 

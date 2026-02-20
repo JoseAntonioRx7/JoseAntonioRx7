@@ -12,7 +12,7 @@ Computer Engineering student focused on **backend development and security-orien
 - Focus on **backend systems, security, and data integrity**  
 - Environments where I can grow working with **Golang, Python, blockchain, and applied AI**
 
-----
+------
 
 ## Core Skills
 

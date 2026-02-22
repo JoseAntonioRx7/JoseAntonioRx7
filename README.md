@@ -46,9 +46,6 @@ Blockchain built from scratch in Go, including block structure, hashing, Proof o
 System for registering and validating educational certificates using blockchain technology.  
 **Focus:** data integrity, immutability, real-world validation use case.
 
-### Blockchain + AI Experiments
-Experimental repository exploring how **AI can assist validation and verification processes** in blockchain-based systems.
-
 ### Low-Level Programming in C
 Projects focused on data structures and system-level understanding.
 

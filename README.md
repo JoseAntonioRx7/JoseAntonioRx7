@@ -49,7 +49,7 @@ System for registering and validating educational certificates using blockchain 
 ### Low-Level Programming in C
 Projects focused on data structures and system-level understanding.
 
-------
+-------
 
 ## Currently Improving
 
@@ -58,7 +58,7 @@ Projects focused on data structures and system-level understanding.
 - Applied cryptography  
 - AI-assisted validation and anomaly detection  
 
-------
+-------
 
 ## Long-Term Goal
 

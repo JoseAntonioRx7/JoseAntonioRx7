@@ -58,13 +58,13 @@ Projects focused on data structures and system-level understanding.
 - Applied cryptography  
 - AI-assisted validation and anomaly detection  
 
--------
+---------
 
 ## Long-Term Goal
 
 To become a **backend engineer specialized in secure systems**, combining **blockchain technology and artificial intelligence** to build reliable, high-trust software.
 
-------
+--------
 
  **GitHub:** @JoseAntonioRx7  
  **LinkedIn:** www.linkedin.com/in/joseantonioramosx

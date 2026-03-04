@@ -4,7 +4,7 @@
 
 Computer Engineering student focused on **backend development and security-oriented systems**, with practical experience building **blockchain architectures**, **REST APIs**, and **validation mechanisms** using **Golang and Python**.
 
----------
+-----------
 
 ## What I’m Looking For
 
@@ -12,7 +12,7 @@ Computer Engineering student focused on **backend development and security-orien
 - Focus on **backend systems, security, and data integrity**  
 - Environments where I can grow working with **Golang, Python, blockchain, and applied AI**
 
----------
+-----------
 
 ## Core Skills
 

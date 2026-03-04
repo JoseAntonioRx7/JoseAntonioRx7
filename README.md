@@ -34,7 +34,7 @@ Computer Engineering student focused on **backend development and security-orien
 - Git & GitHub  
 - AWS (foundations)  
 
----------
+-----------
 
 ## Selected Projects
 
@@ -49,7 +49,7 @@ System for registering and validating educational certificates using blockchain 
 ### Low-Level Programming in C
 Projects focused on data structures and system-level understanding.
 
----------
+-----------
 
 ## Currently Improving
 
@@ -58,13 +58,13 @@ Projects focused on data structures and system-level understanding.
 - Applied cryptography  
 - AI-assisted validation and anomaly detection  
 
----------
+-----------
 
 ## Long-Term Goal
 
 To become a **backend engineer specialized in secure systems**, combining **blockchain technology and artificial intelligence** to build reliable, high-trust software.
 
---------
+----------
 
  **GitHub:** @JoseAntonioRx7  
  **LinkedIn:** www.linkedin.com/in/joseantonioramosx

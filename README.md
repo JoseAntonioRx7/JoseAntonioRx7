@@ -1,70 +1,54 @@
-# Jose Antonio Ramos
+# Olá, eu sou José Antônior R. da Silva 👋
 
-**Backend Developer (Intern / Junior) | Golang • Python • Blockchain • Security**
+**Estudante de Engenharia da Computação | Desenvolvedor Backend & Blockchain**
 
-Computer Engineering student focused on **backend development and security-oriented systems**, with practical experience building **blockchain architectures**, **REST APIs**, and **validation mechanisms** using **Golang and Python**.
+Sou um entusiasta de arquitetura de sistemas e descentralização. Atualmente cursando Engenharia da Computação (3º período), passo a maior parte do meu tempo construindo infraestruturas seguras do zero e desenvolvendo automações. Meu objetivo é transformar lógicas complexas em softwares eficientes e imutáveis.
 
------------
+---
 
-## What I’m Looking For
+### 🛠️ Tecnologias e Ferramentas
 
-- Internship or Junior Backend Developer role  
-- Focus on **backend systems, security, and data integrity**  
-- Environments where I can grow working with **Golang, Python, blockchain, and applied AI**
+**Backend & Core:**
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
------------
+**Frontend & Banco de Dados:**
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Core Skills
+**Automação & Infraestrutura:**
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Backend & Systems**
-- Golang, Python, C  
-- REST APIs, backend architecture, data validation  
+---
 
-**Blockchain & Security**
-- Blockchain architecture  
-- Proof of Work (PoW)  
-- Cryptographic hashing and integrity validation  
+### 💻 O que estou construindo
 
-**Artificial Intelligence**
-- AI fundamentals applied to validation and automation  
-- Python for ML/AI experimentation  
+#### 🔗 [Blockchain Core em Golang](#)
+Desenvolvimento de uma rede blockchain construída totalmente do zero.
+* **Implementações:** Estruturação de blocos, hashing criptográfico (SHA-256), algoritmo de *Proof of Work* (PoW) e modelagem rigorosa de transações.
+* **Foco:** Entendimento profundo de sistemas distribuídos, segurança e performance em Go.
 
-**Tools & Environment**
-- Linux  
-- Git & GitHub  
-- AWS (foundations)  
+#### 🎓 [Registro Descentralizado de Certificados](#)
+Sistema prático para registro e validação de certificados educacionais utilizando tecnologia blockchain para garantir imutabilidade.
+* **Tech Stack:** Backend em Go (Blockchain) integrado a um painel Frontend (HTML/CSS/JS).
+* **Impacto:** Resolução de um problema real de fraude de dados através de integridade criptográfica.
 
------------
+#### 🤖 [Automação de Processos](#)
+Scripts de automação voltados para ganho de produtividade e testes.
+* **Tech Stack:** Python, integrando bibliotecas como PyAutoGUI e ferramentas de automação web (Selenium/Playwright).
 
-## Selected Projects
+---
 
-### Blockchain in Golang
-Blockchain built from scratch in Go, including block structure, hashing, Proof of Work (PoW), and transaction modeling.  
-**Focus:** backend architecture, security, performance.
+### 🎯 Meus Objetivos
+Busco uma oportunidade como **Desenvolvedor Backend (Estágio ou Júnior)**. Quero integrar times onde eu possa aplicar meus conhecimentos em Go e Python, colaborar na construção de APIs seguras e explorar o ecossistema Web3 e tecnologias aplicadas a dados.
 
-### Blockchain Certificate Registry
-System for registering and validating educational certificates using blockchain technology.  
-**Focus:** data integrity, immutability, real-world validation use case.
+---
 
-### Low-Level Programming in C
-Projects focused on data structures and system-level understanding.
-
------------
-
-## Currently Improving
-
-- Backend architecture patterns in Go  
-- Blockchain security models  
-- Applied cryptography  
-- AI-assisted validation and anomaly detection  
-
------------
-
-## Long-Term Goal
-
-To become a **backend engineer specialized in secure systems**, combining **blockchain technology and artificial intelligence** to build reliable, high-trust software.
-
-----------
-
- **GitHub:** @JoseAntonioRx7  
- **LinkedIn:** www.linkedin.com/in/joseantonioramosx
+### 📫 Vamos conversar?
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)

@@ -1,4 +1,4 @@
-# Olá, eu sou José Antônior R. da Silva 👋
+# Olá, eu sou José Antônio R. da Silva 👋
 
 **Estudante de Engenharia da Computação | Desenvolvedor Backend & Blockchain**
 
@@ -50,5 +50,5 @@ Busco uma oportunidade como **Desenvolvedor Backend (Estágio ou Júnior)**. Que
 ---
 
 ### 📫 Vamos conversar?
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joseantonioramosx)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ramosjoseantonio254@gmail.com)

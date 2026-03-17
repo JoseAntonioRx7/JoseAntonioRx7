@@ -18,7 +18,7 @@ Entusiasta de arquitetura de sistemas e descentralização. Gosto de entender co
 - ⚙️ Foco em **Sistemas Distribuídos**, **Segurança** e **Performance**.
 - 🚀 Buscando ativamente uma oportunidade como **Desenvolvedor Backend (Estágio ou Júnior)**.
 
------------
+-------------
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -34,7 +34,7 @@ Entusiasta de arquitetura de sistemas e descentralização. Gosto de entender co
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%2343B02A?style=flat-square&logo=selenium&logoColor=white)
 
------------
+-------------
 
 ### 🏗️ O que estou construindo
 
@@ -42,13 +42,13 @@ Entusiasta de arquitetura de sistemas e descentralização. Gosto de entender co
 * **🎓 Registro Descentralizado de Certificados:** Sistema para registro e validação de certificados educacionais utilizando tecnologia blockchain para garantir imutabilidade e combater fraudes (Backend em Go + Frontend em JS/HTML/CSS).
 * **🤖 Automação de Processos:** Scripts em Python integrando PyAutoGUI e Playwright/Selenium voltados para ganho de produtividade e testes de rotina.
 
----------
+-------------
 
 ### 🎯 Meus Objetivos
 
 Quero integrar um time onde eu possa aplicar e expandir meus conhecimentos em **Go** e **Python**, colaborar na construção de APIs seguras, explorar o ecossistema Web3 e arquitetar soluções eficientes orientadas a dados.
 
------------
+-------------
 
 ### 📬 Vamos nos conectar!
 

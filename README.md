@@ -8,7 +8,7 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joseantonioramosx)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseantonioramosx)
 [![E-mail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramosjoseantonio254@gmail.com)
 
 </div>
@@ -25,27 +25,13 @@ Sou um entusiasta de **arquitetura de sistemas e descentralização**. Gosto de 
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias e Ferramentas
 
-### Backend & Core
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+### 💻 Backend, Core & Web3
+[![My Skills](https://skillicons.dev/icons?i=go,py,c,solidity,eth,js,html)](https://skillicons.dev)
 
-### Blockchain & Web3
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-
-### Banco de Dados & Infraestrutura
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-### Frontend & Automação
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+### 📂 Infraestrutura, Banco de Dados & Ferramentas
+[![My Skills](https://skillicons.dev/icons?i=postgres,linux,git,github,vscode,selenium)](https://skillicons.dev)
 
 ---
 
@@ -53,9 +39,9 @@ Sou um entusiasta de **arquitetura de sistemas e descentralização**. Gosto de 
 
 | Projeto | Descrição | Status/Tech |
 | :--- | :--- | :--- |
-| 🔗 **[TBblockchain-Infraestrutura](https://github.com/JoseAntonioRx7/TBblockchain-Infraestrutura-Certificados-Blockchain)** | Infraestrutura desenvolvida para a emissão segura de certificados utilizando tecnologia Blockchain. Foco em imutabilidade e verificação de dados. | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Blockchain](https://img.shields.io/badge/Blockchain-3C3C3D?style=flat-square) |
-| 🔗 **[cadastro-automatico](https://github.com/JoseAntonioRx7/cadastro-automatico)** | Script de automação projetado para otimizar e acelerar processos repetitivos de cadastro em sistemas web. | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) |
-| 🔗 **[TBblockchain--Company](https://github.com/JoseAntonioRx7/TBblockchain--Company)** | Interface e landing page desenvolvida para apresentar as soluções corporativas do projeto TBblockchain. | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| 🔗 **[TBblockchain-Infraestrutura](https://github.com/JoseAntonioRx7/TBblockchain-Infraestrutura-Certificados-Blockchain)** | Infraestrutura para emissão segura de certificados utilizando Blockchain. Foco em imutabilidade. | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Blockchain](https://img.shields.io/badge/Blockchain-3C3C3D?style=flat-square) |
+| 🔗 **[cadastro-automatico](https://github.com/JoseAntonioRx7/cadastro-automatico)** | Script de automação para otimizar processos repetitivos de cadastro em sistemas web. | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) |
+| 🔗 **[TBblockchain--Company](https://github.com/JoseAntonioRx7/TBblockchain--Company)** | Interface e landing page desenvolvida para as soluções corporativas do projeto TBblockchain. | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 
 ---
 

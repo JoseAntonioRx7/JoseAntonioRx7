@@ -46,8 +46,3 @@ Sou um entusiasta de **arquitetura de sistemas e descentralização**. Gosto de 
 | 🔗 **[TBblockchain--Company](https://github.com/JoseAntonioRx7/TBblockchain--Company)** | Interface e landing page desenvolvida para as soluções corporativas do projeto TBblockchain. | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 
 ---
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseAntonioRx7&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAntonioRx7&layout=compact&langs_count=7&theme=radical"/>
-</div>

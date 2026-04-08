@@ -29,10 +29,8 @@ Sou um entusiasta de **arquitetura de sistemas e descentralização**. Gosto de 
 
 ## 🛠️ Tech Stack
 
-**Linguagens & Blockchain**
 [![My Skills](https://skillicons.dev/icons?i=go,py,c,solidity,js,html)](https://skillicons.dev)
 
-**Infraestrutura & Ferramentas**
 [![My Skills](https://skillicons.dev/icons?i=postgres,linux,git,github,vscode,selenium)](https://skillicons.dev)
 
 </div>

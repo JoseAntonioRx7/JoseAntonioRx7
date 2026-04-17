@@ -13,7 +13,7 @@
 
 </div>
 
------
+-------
 
 ## 👨‍💻 Sobre mim
 
@@ -23,7 +23,7 @@ Sou um entusiasta de **arquitetura de sistemas e descentralização**. Gosto de 
 - ⚙️ Foco em **Sistemas Distribuídos, Segurança, Performance e Contratos Inteligentes**.
 - 🚀 Buscando ativamente uma oportunidade como **Desenvolvedor Backend (Estágio ou Júnior)**.
 
------
+-------
 
 <div align="center">
 
@@ -35,7 +35,7 @@ Sou um entusiasta de **arquitetura de sistemas e descentralização**. Gosto de 
 
 </div>
 
------
+-------
 
 ## 🚀 Projetos em Destaque
 
@@ -45,4 +45,4 @@ Sou um entusiasta de **arquitetura de sistemas e descentralização**. Gosto de 
 | 🔗 **[cadastro-automatico](https://github.com/JoseAntonioRx7/cadastro-automatico)** | Script de automação para otimizar processos repetitivos de cadastro em sistemas web. | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) |
 | 🔗 **[TBblockchain--Company](https://github.com/JoseAntonioRx7/TBblockchain--Company)** | Interface e landing page desenvolvida para as soluções corporativas do projeto TBblockchain. | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 
----
+-------

@@ -13,7 +13,7 @@
 
 </div>
 
----
+-----
 
 ## 👨‍💻 Sobre mim
 
@@ -23,7 +23,7 @@ Sou um entusiasta de **arquitetura de sistemas e descentralização**. Gosto de 
 - ⚙️ Foco em **Sistemas Distribuídos, Segurança, Performance e Contratos Inteligentes**.
 - 🚀 Buscando ativamente uma oportunidade como **Desenvolvedor Backend (Estágio ou Júnior)**.
 
----
+-----
 
 <div align="center">
 
@@ -35,7 +35,7 @@ Sou um entusiasta de **arquitetura de sistemas e descentralização**. Gosto de 
 
 </div>
 
----
+-----
 
 ## 🚀 Projetos em Destaque
 

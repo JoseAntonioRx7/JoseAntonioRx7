@@ -1,6 +1,6 @@
 <div align="center">
   
-# Olá! Sou José Antônio R. da Silva 👋
+# Olá! Sou José Antônio R. da Silva
 
 **Desenvolvedor Backend & Blockchain | Estudante de Engenharia da Computação**
 

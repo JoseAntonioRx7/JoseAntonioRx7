@@ -1,8 +1,8 @@
 <div align="center">
   
-# Olá! Sou José Antônio R. da Silva
+# Olá! Sou José Antônio Ramos da Silva
 
-**Desenvolvedor Backend & Blockchain | Estudante de Engenharia da Computação**
+**Desenvolvedor Backend | Estudante de Engenharia da Computação**
 
 *“Transformando lógicas complexas em softwares eficientes e imutáveis.”*
 
@@ -29,9 +29,9 @@ Sou um entusiasta de **arquitetura de sistemas e descentralização**. Gosto de 
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=go,py,c,solidity,js,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,py,c,js,html)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,linux,git,github,vscode,selenium)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,linux,git,github,vscode)](https://skillicons.dev)
 
 </div>
 

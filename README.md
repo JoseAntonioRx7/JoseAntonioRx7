@@ -17,10 +17,10 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou um entusiasta de **arquitetura de sistemas e descentralização**. Gosto de entender como as coisas funcionam por baixo dos panos, o que me motiva a construir infraestruturas seguras do zero e criar automações para otimizar rotinas. Meu objetivo principal é criar soluções robustas e imutáveis para a Web3 e sistemas distribuídos.
+Sou um entusiasta de **Arquitetura de sistemas e Inteligencia Artificial**. Gosto de entender como as coisas funcionam por baixo dos panos, o que me motiva a construir infraestruturas seguras do zero e criar automações para otimizar rotinas. Meu objetivo principal é criar soluções robustas e imutáveis para a Web3 e sistemas distribuídos.
 
 - 🎓 Cursando **Engenharia da Computação** (3º período).
-- ⚙️ Foco em **Sistemas Distribuídos, Segurança, Performance e Contratos Inteligentes**.
+- ⚙️ Foco em **Sistemas Distribuídos, Segurança, IA**.
 - 🚀 Buscando ativamente uma oportunidade como **Desenvolvedor Backend (Estágio ou Júnior)**.
 
 -------

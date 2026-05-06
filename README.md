@@ -32,17 +32,3 @@ Sou um entusiasta de **Arquitetura de sistemas e Inteligencia Artificial**. Gost
 [![My Skills](https://skillicons.dev/icons?i=go,py,c,js,html)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,linux,git,github,vscode)](https://skillicons.dev)
-
-</div>
-
--------
-
-## 🚀 Projetos em Destaque
-
-| Projeto | Descrição | Status/Tech |
-| :--- | :--- | :--- |
-| 🔗 **[TBblockchain-Infraestrutura](https://github.com/JoseAntonioRx7/TBblockchain-Infraestrutura-Certificados-Blockchain)** | Infraestrutura para emissão segura de certificados utilizando Blockchain. Foco em imutabilidade. | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Blockchain](https://img.shields.io/badge/Blockchain-3C3C3D?style=flat-square) |
-| 🔗 **[cadastro-automatico](https://github.com/JoseAntonioRx7/cadastro-automatico)** | Script de automação para otimizar processos repetitivos de cadastro em sistemas web. | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) |
-| 🔗 **[TBblockchain--Company](https://github.com/JoseAntonioRx7/TBblockchain--Company)** | Interface e landing page desenvolvida para as soluções corporativas do projeto TBblockchain. | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-
--------

@@ -1,34 +1,48 @@
-<div align="center">
-  
-# Olá! Sou José Antônio Ramos da Silva
+## Software Engineer
 
-**Desenvolvedor Backend | Estudante de Engenharia da Computação**
+Focused on building intelligent, reliable and scalable systems.
 
-*“Transformando lógicas complexas em softwares eficientes e imutáveis.”*
+> "Complex systems are not defined by what they do — but by how much you can trust them."
 
-<br>
+---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseantonioramosx)
-[![E-mail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramosjoseantonio254@gmail.com)
+### 🧠 About me
 
-</div>
+I’m a software developer interested in the intersection between:
 
--------
+- Artificial Intelligence applied to real-world systems  
+- Distributed and decentralized architectures  
+- Data validation, consistency and system reliability  
 
-## 👨‍💻 Sobre mim
+I focus on understanding how systems behave under real conditions — not just how they work in theory.
 
-Sou um entusiasta de **Arquitetura de sistemas e Inteligencia Artificial**. Gosto de entender como as coisas funcionam por baixo dos panos, o que me motiva a construir infraestruturas seguras do zero e criar automações para otimizar rotinas. Meu objetivo principal é criar soluções robustas e imutáveis para a Web3 e sistemas distribuídos.
+---
 
-- 🎓 Cursando **Engenharia da Computação** (3º período).
-- ⚙️ Foco em **Sistemas Distribuídos, Segurança, IA**.
-- 🚀 Buscando ativamente uma oportunidade como **Desenvolvedor Backend (Estágio ou Júnior)**.
+### ⚙️ What I work on
 
--------
+- Backend systems and architecture design  
+- Automation and data processing  
+- Structured and reliable system logic  
 
-<div align="center">
+Currently exploring how intelligent systems can be integrated into distributed environments in a secure and consistent way.
 
-## 🛠️ Tech Stack
+---
 
-[![My Skills](https://skillicons.dev/icons?i=go,py,c,js,html)](https://skillicons.dev)
+### 🎯 Current direction
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,linux,git,github,vscode)](https://skillicons.dev)
+- Deepening knowledge in AI applied to systems  
+- Studying system reliability and validation at scale  
+- Building private projects focused on intelligent decision systems  
+
+---
+
+### 📫 Contact
+
+- LinkedIn: www.linkedin.com/in/joseantonioramosx
+- Email: ramosjoseantonio254@gmail.com
+
+
+
+---
+
+> Building systems that don’t just work — but continue working when it matters.

@@ -4,7 +4,7 @@ Focused on building intelligent, reliable and scalable systems.
 
 > "Complex systems are not defined by what they do — but by how much you can trust them."
 
----
+-----
 
 ### 🧠 About me
 
@@ -16,7 +16,7 @@ I’m a software developer interested in the intersection between:
 
 I focus on understanding how systems behave under real conditions — not just how they work in theory.
 
----
+-----
 
 ### ⚙️ What I work on
 
@@ -26,7 +26,7 @@ I focus on understanding how systems behave under real conditions — not just h
 
 Currently exploring how intelligent systems can be integrated into distributed environments in a secure and consistent way.
 
----
+-----
 
 ### 🎯 Current direction
 
@@ -34,7 +34,7 @@ Currently exploring how intelligent systems can be integrated into distributed e
 - Studying system reliability and validation at scale  
 - Building private projects focused on intelligent decision systems  
 
----
+-----
 
 ### 📫 Contact
 
@@ -43,6 +43,6 @@ Currently exploring how intelligent systems can be integrated into distributed e
 
 
 
----
+-----
 
 > Building systems that don’t just work — but continue working when it matters.

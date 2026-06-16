@@ -1,48 +1,22 @@
-## Software Engineer
+<h1 align="center">Hi there, I'm José Antônio 🤖</h1>
 
-Focused on building intelligent, reliable and scalable systems.
+<p align="center">
+  <img src="https://img.shields.io/badge/PYTHON_DEVELOPER-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Dev">
+  <img src="https://img.shields.io/badge/AI_ENGINEER-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="AI Engineer">
+  <img src="https://img.shields.io/badge/SYSTEM_AUTOMATION-41B883?style=for-the-badge&logo=probot&logoColor=white" alt="Automation">
+  <img src="https://img.shields.io/badge/BACKEND_SYSTEMS-0052CC?style=for-the-badge&logo=server&logoColor=white" alt="Backend">
+</p>
 
-> "Complex systems are not defined by what they do — but by how much you can trust them."
+---
 
------
+### { WHOAMI }
 
-### 🧠 About me
+```bash
+--[jose@dev-machine]-[~]
+$ whoami --verbose
 
-I’m a software developer interested in the intersection between:
-
-- Artificial Intelligence applied to real-world systems  
-- Distributed and decentralized architectures  
-- Data validation, consistency and system reliability  
-
-I focus on understanding how systems behave under real conditions — not just how they work in theory.
-
------
-
-### ⚙️ What I work on
-
-- Backend systems and architecture design  
-- Automation and data processing  
-- Structured and reliable system logic  
-
-Currently exploring how intelligent systems can be integrated into distributed environments in a secure and consistent way.
-
------
-
-### 🎯 Current direction
-
-- Deepening knowledge in AI applied to systems  
-- Studying system reliability and validation at scale  
-- Building private projects focused on intelligent decision systems  
-
------
-
-### 📫 Contact
-
-- LinkedIn: www.linkedin.com/in/joseantonioramosx
-- Email: ramosjoseantonio254@gmail.com
-
-
-
------
-
-> Building systems that don’t just work — but continue working when it matters.
+NAME        -> José Antônio Ramos da Silva
+ROLE        -> Software Engineer (Undergraduate)
+FOCUS       -> AI Integration & Automated Systems
+PRINCIPLE   -> "Complex systems are not defined by what they do — but by how much you can trust them."
+STATUS      -> [ AVAILABLE FOR INTERNSHIP ]

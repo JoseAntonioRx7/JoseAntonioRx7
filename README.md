@@ -30,11 +30,11 @@
 
 ## 🛠️ Tech Stack
 
-**Linguagens & Blockchain**
-[![My Skills](https://skillicons.dev/icons?i=go,py,c,solidity,js,html)](https://skillicons.dev)
 
-**Infraestrutura & Ferramentas**
-[![My Skills](https://skillicons.dev/icons?i=postgres,linux,git,github,vscode,selenium)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,go,c,js,html)](https://skillicons.dev)
+
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,git,github,vscode)](https://skillicons.dev)
 
 </div>
 

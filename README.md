@@ -22,19 +22,20 @@
 
 <br>
 
-<h3>{ WHOAMI }</h3>
 <hr>
 
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="50%" valign="top" style="border: none;">
+---
 
-```bash
---[jose@dev-machine]-[~]
-$ whoami --verbose
+<div align="center">
 
-NAME        -> José Antônio Ramos da Silva
-ROLE        -> Software Engineer (Undergraduate)
-FOCUS       -> AI Integration & Automated Systems
-PRINCIPLE   -> "Complex systems are not defined by what they do..."
-STATUS      -> [ AVAILABLE FOR INTERNSHIP ]
+## 🛠️ Tech Stack
+
+**Linguagens & Blockchain**
+[![My Skills](https://skillicons.dev/icons?i=go,py,c,solidity,js,html)](https://skillicons.dev)
+
+**Infraestrutura & Ferramentas**
+[![My Skills](https://skillicons.dev/icons?i=postgres,linux,git,github,vscode,selenium)](https://skillicons.dev)
+
+</div>
+
+---

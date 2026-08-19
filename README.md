@@ -19,33 +19,6 @@
 
 <br/>
 
-
-```mermaid
-mindmap
-  root((AI & Decentralized Systems))
-    Artificial Intelligence
-      Python
-      Machine Learning
-      LLMs
-      Data Pipelines
-    Backend
-      APIs
-      Automation
-      Databases
-      Cloud
-    Blockchain
-      Smart Contracts
-      Consensus
-      P2P Networks
-    Security
-      Cryptography
-      Secure Protocols
-      Distributed Trust
-```
-
----
-
-
 <!-- ABOUT ME SECTION -->
 <div align="left">
   <img align="right" src="https://raw.githubusercontent.com/JoseAntonioRx7/JoseAntonioRx7/main/astronaut.gif" onerror="this.src='https://i.imgur.com/7H659R9.gif'" alt="Pixel Astronaut" width="240" />
@@ -126,6 +99,3 @@ mindmap
 <p align="center">
   <i>Let's build the future, one block of code at a time.</i> 🚀
 </p>
-
-
-

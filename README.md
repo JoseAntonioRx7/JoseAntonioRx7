@@ -95,7 +95,38 @@
 <br/>
 
 
+```mermaid
+mindmap
+  root((AI & Decentralized Systems))
+    Artificial Intelligence
+      Python
+      Machine Learning
+      LLMs
+      Data Pipelines
+    Backend
+      APIs
+      Automation
+      Databases
+      Cloud
+    Blockchain
+      Smart Contracts
+      Consensus
+      P2P Networks
+    Security
+      Cryptography
+      Secure Protocols
+      Distributed Trust
+```
+
+---
+
+
+
+
 <br/>
 <p align="center">
   <i>Let's build the future, one block of code at a time.</i> 🚀
 </p>
+
+
+

@@ -16,25 +16,27 @@ Estudante de Engenharia da Computação focado em resolver problemas através de
 
 <br/>
 
-## 💻 Tecnologias
+<div align="center">
+  <h2>💻 Tecnologias</h2>
 
-**Foco & Interesses:**<br/>
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/IA_&_Machine_Learning-0D1117?style=for-the-badge&logo=openai&logoColor=white" alt="IA/ML"/>
-<img src="https://img.shields.io/badge/Web3_&_Sistemas_Distribuídos-121D33?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3 e SD"/>
+  <p><b>Foco & Interesses:</b></p>
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/IA_&_Machine_Learning-0D1117?style=for-the-badge&logo=openai&logoColor=white" alt="IA/ML"/>
+  <img src="https://img.shields.io/badge/Web3_&_Sistemas_Distribuídos-121D33?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3 e SD"/>
+
+  <br/><br/>
+  
+  <p><b>Stack Técnico:</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,go,c,js,postgres,git,github,aws&theme=dark" alt="Tech Stack" />
+  </a>
+</div>
 
 <br/><br/>
-**Stack Técnico:**<br/>
-<a href="https://skillicons.dev">
-  <!-- Ícones consolidados em uma única linha para manter o minimalismo -->
-  <img src="https://skillicons.dev/icons?i=py,go,c,js,postgres,git,github,aws&theme=dark" alt="Tech Stack" />
-</a>
 
-<br/><br/>
-
-## 🤝 Contato
-
-<div align="left">
+<div align="center">
+  <h2>🤝 Contato</h2>
+  
   <a href="https://www.linkedin.com/in/joseantonioramosx" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>

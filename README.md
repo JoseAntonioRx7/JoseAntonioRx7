@@ -11,7 +11,9 @@
 Estudante de Engenharia da Computação focado em resolver problemas através de código. Atualmente, minha energia está direcionada para o ecossistema **Python** e o desenvolvimento de soluções com **Inteligência Artificial**. 
 
 > 💻 **Foco Atual:** Python, Automação de Processos e Integração de Modelos de IA.
+
 > 🌐 **Próximos Passos:** Integrar IA ao ecossistema de **Web3, Blockchain e Sistemas Distribuídos**.
+
 > 🎓 **Formação:** Graduação em Engenharia da Computação.
 
 <br/>

@@ -6,7 +6,8 @@
 
 <br/>
 
-## 🚀 Sobre Mim
+<div align="center">
+<h2>🚀 Sobre Mim</h2>
 
 Estudante de Engenharia da Computação focado em resolver problemas através de código. Atualmente, minha energia está direcionada para o ecossistema **Python** e o desenvolvimento de soluções com **Inteligência Artificial**. 
 

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/aa786bac-54a5-48d0-8b74-9dd9378b1c9f" />
+  <img align="center" width="1500" src="https://github.com/user-attachments/assets/aa786bac-54a5-48d0-8b74-9dd9378b1c9f" />
 </div>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=League+Spartan&weight=600&size=30&pause=1000&color=ffffff&center=true&vCenter=true&width=600&repeat=false&lines=Desenvolvedor+Python+%7C+IA+%7C+Web3" alt="Tagline" />
@@ -10,14 +10,14 @@
 <br/>
 
 <h2>🚀 Sobre mim</h2>
-<img align="right" width="220" src="https://github.com/user-attachments/assets/106b22aa-4258-43fc-b72b-ee80465a01e0" />
+<img align="right" width="350" src="https://github.com/user-attachments/assets/106b22aa-4258-43fc-b72b-ee80465a01e0" />
 <p>Estudante de <b>Engenharia da Computação</b>, transformando problemas complexos em código eficiente.</p>
 <ul>
-  <li>🐍 Minha energia atual está no ecossistema <b>Python</b> e na integração de modelos de <b>Inteligência Artificial</b>.</li>
-  <li>⚙️ Construo automações que escalam e resolvem gargalos reais.</li>
-  <li>🛠️ No backend, foco em infraestruturas resilientes, bancos relacionais e na performance da linguagem <b>Go</b>.</li>
-  <li>🔗 Próximo passo: integrar IA nativamente ao ecossistema de <b>Web3, Blockchain e Sistemas Distribuídos</b>.</li>
-  <li>📚 Estudante de vida: acredito que todo dia é uma oportunidade de aprender algo novo.</li>
+  <li>🐍 > Minha energia atual está no ecossistema <b>Python</b> e na integração de modelos de <b>Inteligência Artificial</b>.</li>
+  <li>⚙️ > Construo automações que escalam e resolvem gargalos reais.</li>
+  <li>🛠️ > No backend, foco em infraestruturas resilientes, bancos relacionais e na performance da linguagem <b>Python</b>.</li>
+  <li>🔗 > Próximo passo: integrar IA nativamente ao ecossistema de <b>Web3, Blockchain e Sistemas Distribuídos</b>.</li>
+  <li>📚 > Acredito que todo dia é uma oportunidade de aprender algo novo.</li>
 </ul>
 <br clear="right"/>
 

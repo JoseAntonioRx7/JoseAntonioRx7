@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" width="1500" src="https://github.com/user-attachments/assets/aa786bac-54a5-48d0-8b74-9dd9378b1c9f" />
+  <img align="center" width="1500" src="https://github.com/user-attachments/assets/55aace3e-f4e1-4a5f-a9cd-45b76d2b6704" />
 </div>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=League+Spartan&weight=600&size=30&pause=1000&color=ffffff&center=true&vCenter=true&width=600&repeat=false&lines=Desenvolvedor+Python+%7C+IA+%7C+Web3" alt="Tagline" />

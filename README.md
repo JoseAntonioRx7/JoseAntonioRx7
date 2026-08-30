@@ -1,49 +1,40 @@
 <div align="center">
-  <h1>José Antônio</h1>
-  <h3>Desenvolvedor de Software | IA & Python</h3>
-  <p>Construindo automações inteligentes e APIs robustas no backend.</p>
+  <!-- Painel animado (aparecendo e desaparecendo) em azul escuro -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1E3A8A&center=true&vCenter=true&width=600&lines=José+Antônio;Desenvolvedor+Python+%7C+IA;Construindo+Automações+Inteligentes;Backend+Robusto+%7C+Go+%26+PostgreSQL;Foco+Futuro:+Web3+%26+Blockchain" alt="Typing SVG" />
+  </a>
+  <p>Estudante de Engenharia da Computação | Transformando problemas complexos em código eficiente.</p>
 </div>
 
 <br/>
 
 <div align="center">
-<h2>🚀 Sobre Mim</h2>
-
-Estudante de Engenharia da Computação focado em resolver problemas através de código. Atualmente, minha energia está direcionada para o ecossistema **Python** e o desenvolvimento de soluções com **Inteligência Artificial**. 
-
-- 💻 **Foco Atual:** Python, Automação de Processos e Integração de Modelos de IA.
-
-- 🌐 **Próximos Passos:** Integrar IA ao ecossistema de **Web3, Blockchain e Sistemas Distribuídos**.
-
-- 🎓 **Formação:** Graduação em Engenharia da Computação.
+  <h2>🚀 Sobre Mim</h2>
+  <p>Minha energia atual está direcionada para o ecossistema <b>Python</b> e a integração de modelos de <b>Inteligência Artificial</b>, criando automações que escalam e resolvem gargalos reais.</p>
+  <p>No backend, tenho foco em construir infraestruturas resilientes, bancos de dados relacionais e explorar a performance da linguagem <b>Go</b>. O próximo passo da minha jornada é integrar a IA de forma nativa ao ecossistema de <b>Web3, Blockchain e Sistemas Distribuídos</b>, garantindo segurança e integridade de dados na base estrutural.</p>
+</div>
 
 <br/>
 
 <div align="center">
-  <h2>💻 Tecnologias</h2>
-
-  <p><b>Foco & Interesses:</b></p>
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/IA_&_Machine_Learning-0D1117?style=for-the-badge&logo=openai&logoColor=white" alt="IA/ML"/>
-  <img src="https://img.shields.io/badge/Web3_&_Sistemas_Distribuídos-121D33?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3 e SD"/>
-
-  <br/><br/>
+  <h2>💻 Tecnologias e Ferramentas</h2>
+  <p><b>Stack Atual & Automação:</b></p>
   
-  <p><b>Stack Técnico:</b></p>
+  <!-- Ícones visuais em vez de badges quadrados -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,go,c,js,postgres,git,github,aws&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,go,c,js,postgres,git,github,aws,linux,docker&theme=dark" alt="Tech Stack" />
   </a>
 </div>
 
 <br/><br/>
 
 <div align="center">
-  <h2>🤝 Contato</h2>
+  <h2>🤝 Conecte-se Comigo</h2>
   
   <a href="https://www.linkedin.com/in/joseantonioramosx" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"/>
   </a>
   <a href="mailto:ramosjoseantonio254@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail"/>
   </a>
 </div>

@@ -1,17 +1,9 @@
-<!-- ================================================================ -->
-<!--  1. BANNER PRINCIPAL                                             -->
-<!--  Troque a URL abaixo pela imagem do seu banner.                  -->
-<!--  Tamanho ideal: 1584 x 396 px (proporção 4:1) — PNG ou GIF.      -->
-<!--  Isso garante nitidez em telas retina e evita cortes no GitHub.  -->
-<!-- ================================================================ -->
 <div align="center">
   <img src="https://github.com/user-attachments/assets/aa786bac-54a5-48d0-8b74-9dd9378b1c9f" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=spartan+Code&weight=500&size=30&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Jos%C3%A9+Ant%C3%B4nio;Desenvolvedor+Python+%7C+IA;Explorando+Web3+%26+Blockchain" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=League+Spartan&weight=600&size=30&pause=1000&color=ffffff&center=true&vCenter=true&width=600&repeat=false&lines=Desenvolvedor+Python+%7C+IA+%7C+Web3" alt="Tagline" />
 </div>
 
 <p align="center">
@@ -20,15 +12,6 @@
 
 <br/>
 
-<!-- ================================================================ -->
-<!--  2. SOBRE MIM                                                    -->
-<!--  Texto à esquerda + ilustração à direita (como no perfil da       -->
-<!--  Athanasia com a coruja).                                        -->
-<!--  Tamanho ideal da ilustração: 300 x 300 px, PNG com fundo         -->
-<!--  transparente — assim ela se adapta ao tema claro/escuro do      -->
-<!--  GitHub. Sites como storyset.com e undraw.co têm ilustrações      -->
-<!--  gratuitas nesse formato.                                        -->
-<!-- ================================================================ -->
 <table>
   <tr>
     <td width="65%" valign="top">
@@ -43,18 +26,13 @@
       </ul>
     </td>
     <td width="35%" align="center">
-      <img src= "https://github.com/user-attachments/assets/106b22aa-4258-43fc-b72b-ee80465a01e0" />
+      <img src="https://github.com/user-attachments/assets/106b22aa-4258-43fc-b72b-ee80465a01e0" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- ================================================================ -->
-<!--  3. STACK & FERRAMENTAS                                          -->
-<!--  Tabela de 3 colunas, como no perfil da Athanasia                -->
-<!--  ("I have / I'm learning / In the memory banks").                -->
-<!-- ================================================================ -->
 <div align="center">
   <h2>💻 Stack & Ferramentas</h2>
   <table>
@@ -80,11 +58,6 @@
 
 <br/>
 
-<!-- ================================================================ -->
-<!--  4. ESTATÍSTICAS DO GITHUB                                       -->
-<!--  Troque "SEU_USUARIO_GITHUB" (3 ocorrências abaixo) pelo seu      -->
-<!--  usuário real do GitHub.                                          -->
-<!-- ================================================================ -->
 <div align="center">
   <h2>📊 Estatísticas</h2>
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=JoseAntonioRx7&theme=tokyonight&hide_border=true" />
@@ -92,9 +65,6 @@
 
 <br/>
 
-<!-- ================================================================ -->
-<!--  5. CONECTE-SE COMIGO                                            -->
-<!-- ================================================================ -->
 <div align="center">
   <h2>🤝 Conecte-se comigo</h2>
   <a href="https://www.linkedin.com/in/joseantonioramosx" target="_blank">

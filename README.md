@@ -11,13 +11,14 @@
 
 <h2>🚀 Sobre mim</h2>
 <img align="right" width="350" src="https://github.com/user-attachments/assets/106b22aa-4258-43fc-b72b-ee80465a01e0" />
-<p>Estudante de <b>Engenharia da Computação</b>, transformando problemas complexos em código eficiente.</p>
+<p>Estudante de Engenharia da Computação</b>, transformando problemas complexos em sistemas eficientes.</p>
 <ul>
-  <li>🐍 > Minha energia atual está no ecossistema <b>Python</b> e na integração de modelos de <b>Inteligência Artificial</b>.</li>
-  <li>⚙️ > Construo automações que escalam e resolvem gargalos reais.</li>
-  <li>🛠️ > No backend, foco em infraestruturas resilientes, bancos relacionais e na performance da linguagem <b>Python</b>.</li>
-  <li>🔗 > Próximo passo: integrar IA nativamente ao ecossistema de <b>Web3, Blockchain e Sistemas Distribuídos</b>.</li>
-  <li>📚 > Acredito que todo dia é uma oportunidade de aprender algo novo.</li>
+  <li>🐍 > Python como principal ferramenta para desenvolvimento backend e automação.</li>
+  <li>⚙️ > Construo APIs, sistemas distribuídos e aplicações orientadas a dados.</li>
+  <li>🧠 > Exploro Inteligência Artificial, LLMs e Machine Learning aplicados a problemas reais.</li>
+  <li>🛠️ > Foco em arquiteturas resilientes, bancos relacionais, performance e engenharia de software.</li>
+  <li>🔗 > No longo prazo, quero integrar IA a Web3, Blockchain e Sistemas Distribuídos.</li>
+  <li>📚 > Construo, estudo e evoluo todos os dias.</li>
 </ul>
 <br clear="right"/>
 

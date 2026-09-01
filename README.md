@@ -23,6 +23,14 @@
 </ul>
 <br clear="right"/>
 
+<br/>
+
+<div align="center">
+  <h2>📊 Estatísticas</h2>
+  <img height="300" src="https://github-readme-streak-stats.herokuapp.com?user=JoseAntonioRx7&theme=tokyonight&hide_border=true" />
+</div>
+<br/>
+
 <div align="center">
   <h2>💻 Stack & Ferramentas</h2>
   <h4>Foco Principal</h4>
@@ -35,12 +43,7 @@
   <h4>Quero explorar</h4>
   <img src="https://skillicons.dev/icons?i=solidity,rust&theme=dark" />
 </div>
-<br/>
 
-<div align="center">
-  <h2>📊 Estatísticas</h2>
-  <img height="300" src="https://github-readme-streak-stats.herokuapp.com?user=JoseAntonioRx7&theme=tokyonight&hide_border=true" />
-</div>
 <br/>
 
 <div align="center">

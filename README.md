@@ -10,7 +10,8 @@
 <br/>
 
 <h2>🚀 Sobre mim</h2>
-<img align="right" width="350" src="https://github.com/user-attachments/assets/106b22aa-4258-43fc-b72b-ee80465a01e0" />
+<img align="right" width="380" src="https://github.com/user-attachments/assets/fba3346c-88ae-49df-9c48-a775398b4ae0" />
+
 <p>Estudante de Engenharia da Computação</b>, transformando problemas complexos em sistemas eficientes.</p>
 <ul>
   <li>🐍 Python como principal ferramenta para desenvolvimento backend e automação.</li>

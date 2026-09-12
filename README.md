@@ -33,14 +33,14 @@
 
 <div align="center">
   <h2>💻 Stack & Ferramentas</h2>
-  <h4>Foco Principal</h4>
+  <h4>Foco Principal:</h4>
   <img src="https://skillicons.dev/icons?i=py,go,c,postgres,git,linux&theme=dark" /><br/><br/>
   <img src="https://skillicons.dev/icons?i=github,docker,aws&theme=dark" />
   <br/><br/>
-  <h4>Uso em website</h4>
+  <h4>Uso em website:</h4>
   <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" />
   <br/><br/>
-  <h4>Quero explorar</h4>
+  <h4>Quero explorar:</h4>
   <img src="https://skillicons.dev/icons?i=solidity,rust&theme=dark" />
 </div>
 

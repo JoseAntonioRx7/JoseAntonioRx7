@@ -14,12 +14,12 @@
 
 <p>Estudante de Engenharia da Computação</b>, transformando problemas complexos em sistemas eficientes.</p>
 <ul>
-  <li>🐍 Python como principal ferramenta para desenvolvimento backend e automação. </li>
-  <li>⚙️ Construo APIs, sistemas distribuídos e aplicações orientadas a dados. </li>
-  <li>🧠 Exploro Inteligência Artificial e LLMs aplicados a problemas reais. </li>
-  <li>🛠️ Foco em arquiteturas resilientes, bancos relacionais, performance e engenharia de software. </li>
-  <li>🔗 No longo prazo, quero integrar IA a Web3, Blockchain e Sistemas Distribuídos. </li>
-  <li>📚 Construo, estudo e evoluo todos os dias. </li>
+  <li>🐍 - Python como principal ferramenta para desenvolvimento backend e automação. </li>
+  <li>⚙️ - Construo APIs, sistemas distribuídos e aplicações orientadas a dados. </li>
+  <li>🧠 - Exploro Inteligência Artificial e LLMs aplicados a problemas reais. </li>
+  <li>🛠️ - Foco em arquiteturas resilientes, bancos relacionais, performance e engenharia de software. </li>
+  <li>🔗 - No longo prazo, quero integrar IA a Web3, Blockchain e Sistemas Distribuídos. </li>
+  <li>📚 - Construo, estudo e evoluo todos os dias. </li>
 </ul>
 <br clear="right"/>
 

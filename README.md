@@ -9,7 +9,7 @@
 </p>
 <br/>
 
-<h2>🚀 Sobre mim</h2>
+<h2>🚀 Sobre mim </h2>
 <img align="right" width="380" src="https://github.com/user-attachments/assets/fba3346c-88ae-49df-9c48-a775398b4ae0" />
 
 <p>Estudante de Engenharia da Computação</b>, transformando problemas complexos em sistemas eficientes.</p>
@@ -26,7 +26,7 @@
 <br/>
 
 <div align="center">
-  <h2>📊 Estatísticas</h2>
+  <h2>📊 Estatísticas </h2>
   <img height="300" src="https://github-readme-streak-stats.herokuapp.com?user=JoseAntonioRx7&theme=tokyonight&hide_border=true" />
 </div>
 <br/>

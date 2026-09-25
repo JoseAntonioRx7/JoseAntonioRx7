@@ -5,6 +5,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=League+Spartan&weight=600&size=30&pause=1000&color=ffffff&center=true&vCenter=true&width=600&repeat=false&lines=Desenvolvedor+Python+%7C+IA+%7C+Web3" alt="Tagline" />
 </div>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JoseAntonioRx7&label=Visualiza%C3%A7%C3%B5es+do+Perfil&color=1E3A8A&style=flat" alt="Profile views" />
 </p>

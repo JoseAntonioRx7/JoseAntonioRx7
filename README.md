@@ -39,7 +39,7 @@
 <div align="center">
   <h2>💻 Stack & Ferramentas </h2>
   <h4>Foco Principal: </h4>
-  <img src="https://skillicons.dev/icons?i=py,go,c,postgres,git,linux&theme=dark" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=py,js,go,c,postgres,git,linux&theme=dark" /><br/><br/>
   <img src="https://skillicons.dev/icons?i=github,docker,aws&theme=dark" />
   <br/><br/>
   <h4>Uso em website: </h4>

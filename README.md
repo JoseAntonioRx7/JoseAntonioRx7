@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=League+Spartan&weight=600&size=30&pause=1000&color=ffffff&center=true&vCenter=true&width=600&repeat=false&lines=Desenvolvedor+Python+%7C+IA+%7C+Web3" alt="Tagline" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=League+Spartan&weight=600&size=30&pause=1000&color=ffffff&center=true&vCenter=true&width=600&repeat=false&lines=Desenvolvedor+Python+%7C+IA+%7C+JS" alt="Tagline" />
   
 </div>
 

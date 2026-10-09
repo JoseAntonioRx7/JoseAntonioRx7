@@ -34,6 +34,7 @@
   <h2>📊 Estatísticas </h2>
   <img height="300" src="https://github-readme-streak-stats.herokuapp.com?user=JoseAntonioRx7&theme=tokyonight&hide_border=true" />
 </div>
+
 <br/>
 
 <div align="center">

@@ -22,9 +22,9 @@
   <li>🔗 - No longo prazo, quero integrar IA a Web3, Blockchain e Sistemas Distribuídos. </li>
   <li>📚 - Construo, estudo e evoluo todos os dias. </li>
 </ul>
+
 <br clear="right"/>
 
-<br/>
 
 <div align="center">
   <h2>📊 Estatísticas </h2>

@@ -5,7 +5,6 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=League+Spartan&weight=600&size=30&pause=1000&color=ffffff&center=true&vCenter=true&width=600&repeat=false&lines=Desenvolvedor+Backend+%7C+Python+%7C+IA+%7C+JS" alt="Tagline" />
-  
 </div>
 
 <br/>
@@ -24,7 +23,6 @@
 </ul>
 
 <br clear="right"/>
-
 
 <div align="center">
   <h2>📊 Estatísticas </h2>

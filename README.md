@@ -11,7 +11,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JoseAntonioRx7&label=Visualiza%C3%A7%C3%B5es+do+Perfil&color=1E3A8A&style=flat" alt="Profile views" />
 </p>
-
 <br/>
 
 <h2>🚀 Sobre mim </h2>

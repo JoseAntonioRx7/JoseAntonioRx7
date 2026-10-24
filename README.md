@@ -32,7 +32,7 @@
 
 <br/>
 
-<div align="center">
+<div align="center"  >
   <h2>💻 Stack & Ferramentas </h2>
   <h4>Foco Principal: </h4>
   
